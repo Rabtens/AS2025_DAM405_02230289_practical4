@@ -1,0 +1,5 @@
+flaml[automl]
+scikit-learn
+joblib
+python-docx
+pandas
